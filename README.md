@@ -39,4 +39,4 @@ This lab reinforced the importance of:
 * The utility of honeypots for gathering threat intelligence.
 
 ---
-*Documented by [Your Name]*
+*Documented by Israel Oluwasegun Emmanuel*
